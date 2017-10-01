@@ -1,4 +1,4 @@
-Para este ejercico en primer lugar me he dado de alta en el github
+#Para este ejercico en primer lugar me he dado de alta en el github
 
 he creado un repositorio y dentro de este he ido poniendo los fichero PS, RTF, XML i HTML.
 
